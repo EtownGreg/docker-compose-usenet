@@ -52,7 +52,7 @@
 			{
 				"name": "linuxserver/plex",
 				"tag": "latest",
-				"digest": "d8451275b5b9b1c60b5bc08723c781ee439971505b6ebe8d309326df51999ad1",
+				"digest": "9d2077634d774724667bf0f049293da0f247bde4f092151363cc8aaf67c4770f",
 				"service": "plex"
 			},
 			{
@@ -64,7 +64,7 @@
 			{
 				"name": "linuxserver/radarr",
 				"tag": "latest",
-				"digest": "8773351520ad49812402026b3a07b78047b45649a7f164cdb2b06732082af879",
+				"digest": "0d116f850e15db2990ea81fcc0ec12534b3050074543b02caa62b5ba6a9d7d22",
 				"service": "radarr"
 			},
 			{
