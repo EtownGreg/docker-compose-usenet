@@ -28,7 +28,7 @@
 			{
 				"name": "linuxserver/lidarr",
 				"tag": "latest",
-				"digest": "b138259aed3dc02eed4f45bf54917af2bfceaa378e51ea61bdb97040e8b5d328",
+				"digest": "5464513accf30d9cae299d713315962631ada9fb559460930f790287b4b697b6",
 				"service": "lidarr"
 			},
 			{
@@ -52,7 +52,7 @@
 			{
 				"name": "linuxserver/plex",
 				"tag": "latest",
-				"digest": "b642128703123c70959ef4dc03d0979b6480df78c66e2823657e2ad6c5bc7acf",
+				"digest": "f92f4238cd7bc72ba576f22571ddc05461a2467bc0a1a5dd41864db7064d6fa6",
 				"service": "plex"
 			},
 			{
