@@ -70,7 +70,7 @@
 			{
 				"name": "linuxserver/sabnzbd",
 				"tag": "latest",
-				"digest": "b2ca883c79a3958ba37f240ce2e175ae586f900027e3834b45166c40aafa352a",
+				"digest": "d82e9f44b9d7e1989e5241a75d91d252bd024ead23eec66a598a0ceb69752fcb",
 				"service": "sabnzbd"
 			},
 			{
