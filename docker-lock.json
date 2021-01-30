@@ -28,7 +28,7 @@
 			{
 				"name": "linuxserver/lidarr",
 				"tag": "latest",
-				"digest": "ee6109eb6ae7683d3bbd56b0c940c8aecf41de232ff17c89d4f5a6a96bd54754",
+				"digest": "765695e2e226f84cc4c25a7e4b5c5b348718e9ee6862766ea50cc80b65a91d6e",
 				"service": "lidarr"
 			},
 			{
