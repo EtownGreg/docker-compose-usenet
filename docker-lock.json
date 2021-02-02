@@ -22,7 +22,7 @@
 			{
 				"name": "linuxserver/lazylibrarian",
 				"tag": "latest",
-				"digest": "5d99bd967fcb60570635e52aba3c5387c4fa751485859b6ef515ded9b1cd2ca6",
+				"digest": "b8af6c6677685dacfcfbd6cee32ed2cc8b60fa37d5ad68c775e595a0cfdf8f90",
 				"service": "lazylibrarian"
 			},
 			{
@@ -46,7 +46,7 @@
 			{
 				"name": "linuxserver/ombi",
 				"tag": "latest",
-				"digest": "8358b4c03014ca92b09e89d84d995075d25311f5b0f299284f8db76df501b542",
+				"digest": "2bff8b224048dbbd10d28120366cd53430a632257e78c4d4cd48b00f3ee54d3e",
 				"service": "ombi"
 			},
 			{
