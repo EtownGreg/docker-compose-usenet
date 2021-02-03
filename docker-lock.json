@@ -34,7 +34,7 @@
 			{
 				"name": "linuxserver/mylar",
 				"tag": "latest",
-				"digest": "",
+				"digest": "649e5faf743fea271bd796af67e163f98b3ad7934b0c84b7ed27bf34952ab55d",
 				"service": "mylar"
 			},
 			{
