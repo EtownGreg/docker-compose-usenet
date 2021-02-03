@@ -40,7 +40,7 @@
 			{
 				"name": "linuxserver/hydra2",
 				"tag": "latest",
-				"digest": "",
+				"digest": "0ee4d669cbd8effd4b40eb718f8cda99eae92cf2bee08075500e36eb314581dc",
 				"service": "nzbhydra"
 			},
 			{
@@ -88,7 +88,7 @@
 			{
 				"name": "containrrr/watchtower",
 				"tag": "latest",
-				"digest": "",
+				"digest": "ff3ba4f421801d07754150aee4c03fdde26a0a9783d66021e81c7097d6842f25",
 				"service": "watchtower"
 			}
 		]
