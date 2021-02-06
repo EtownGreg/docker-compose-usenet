@@ -52,13 +52,13 @@
 			{
 				"name": "linuxserver/plex",
 				"tag": "latest",
-				"digest": "1088e1a4f2889f7b72f17ebb7ddf4f100da501af20d5c10e8eec66bc388391af",
+				"digest": "2415f620b45dcf780ee52ad4ddcc1dd5c52c84e115463f23926ebd96fcf916a3",
 				"service": "plex"
 			},
 			{
 				"name": "linuxserver/tautulli",
 				"tag": "latest",
-				"digest": "7c8eecba68a206b3f863462cb0be7b43ca68fad8ced9a8a547bbbbb4a81e04d5",
+				"digest": "d098b5a73115f8347cbca7c21b6157a843f318a0c8ec8c0a3582fee120589b21",
 				"service": "plexpy"
 			},
 			{
