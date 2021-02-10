@@ -16,7 +16,7 @@
 			{
 				"name": "linuxserver/heimdall",
 				"tag": "latest",
-				"digest": "6f9b11146c437840756b23420e6951ca8689e128511d46935c33c0e4cc36e638",
+				"digest": "a5ff7e818cc2e38962d60d2dff9450730d70e09a301463461a21539ecb9572fe",
 				"service": "heimdall"
 			},
 			{
