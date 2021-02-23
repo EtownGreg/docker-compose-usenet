@@ -22,7 +22,7 @@
 			{
 				"name": "linuxserver/lazylibrarian",
 				"tag": "latest",
-				"digest": "bef99528e8c87d69464f47f43ac3b57e9f17ed785945d106e8d21aff9f7a0ecb",
+				"digest": "4e8c3e0bbdf855bd431878b68fc6284df28747ef9c38ab00cc2946360c282842",
 				"service": "lazylibrarian"
 			},
 			{
