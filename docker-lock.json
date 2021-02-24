@@ -82,7 +82,7 @@
 			{
 				"name": "traefik",
 				"tag": "v1.7",
-				"digest": "998fc0cce3df0fe066005d6e94a7fa8b20749155fb54b4ebd1603e039b842feb",
+				"digest": "5325e0f4d374b9fd87550465b3145415c24ce90d56f839632e56875ce4072844",
 				"service": "traefik"
 			},
 			{
