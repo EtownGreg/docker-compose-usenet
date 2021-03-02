@@ -1,0 +1,96 @@
+{
+	"composefiles": {
+		"docker-compose.yml": [
+			{
+				"name": "linuxserver/ddclient",
+				"tag": "latest",
+				"digest": "b7187d2ded5518c2f588ab9428f2995e49803b2f90ba08f3f7dff65c91441f40",
+				"service": "ddclient"
+			},
+			{
+				"name": "cpoppema/docker-flexget",
+				"tag": "latest",
+				"digest": "0c054af55821879de25ade8de662dd3ff3a780753fd8c248ccf00c60e09d7de7",
+				"service": "flexget"
+			},
+			{
+				"name": "linuxserver/heimdall",
+				"tag": "latest",
+				"digest": "acefb14273eb8b6288913fef5caa22e884d314f5a650aa0c97b1c0684baf7a2c",
+				"service": "heimdall"
+			},
+			{
+				"name": "linuxserver/lazylibrarian",
+				"tag": "latest",
+				"digest": "18657016667922fad160f94cb1b2ba176b87a673df538066b055a1a0059a08a9",
+				"service": "lazylibrarian"
+			},
+			{
+				"name": "linuxserver/lidarr",
+				"tag": "latest",
+				"digest": "1dfb133e7b45654bf43fa8c4d7948032573b0048e7a9bb805415999031cee248",
+				"service": "lidarr"
+			},
+			{
+				"name": "linuxserver/mylar",
+				"tag": "latest",
+				"digest": "649e5faf743fea271bd796af67e163f98b3ad7934b0c84b7ed27bf34952ab55d",
+				"service": "mylar"
+			},
+			{
+				"name": "linuxserver/hydra2",
+				"tag": "latest",
+				"digest": "0ee4d669cbd8effd4b40eb718f8cda99eae92cf2bee08075500e36eb314581dc",
+				"service": "nzbhydra"
+			},
+			{
+				"name": "linuxserver/ombi",
+				"tag": "latest",
+				"digest": "134f7ecc950ec358fcb01ed9847d5b396f63dac31ac588a75d31bb298c35c591",
+				"service": "ombi"
+			},
+			{
+				"name": "linuxserver/plex",
+				"tag": "latest",
+				"digest": "57c7ae079c2eb7ea82eccedf3b0e028ffdf16587531733434c64bdb96103b595",
+				"service": "plex"
+			},
+			{
+				"name": "linuxserver/tautulli",
+				"tag": "latest",
+				"digest": "c9b9c7363525e6c8094d8f734aa1d574684e9fe0f11a729d88ab1cc4cadd4539",
+				"service": "plexpy"
+			},
+			{
+				"name": "linuxserver/radarr",
+				"tag": "latest",
+				"digest": "3386eeeb87c210a3a5549e85cd5f92f30dd4bf3130d880d795bcc840ee0958df",
+				"service": "radarr"
+			},
+			{
+				"name": "linuxserver/sabnzbd",
+				"tag": "latest",
+				"digest": "b34e3f246b6224826187202222963e8201f18880c23a344882a1046f90945c62",
+				"service": "sabnzbd"
+			},
+			{
+				"name": "linuxserver/sonarr",
+				"tag": "latest",
+				"digest": "ab4badd762f120796dce0a246a7f99143678d218fdf97cba893f1b2d0ef5c184",
+				"service": "sonarr"
+			},
+			{
+				"name": "traefik",
+				"tag": "v1.7",
+				"digest": "6fcc1a5ef1fc56c7e8ef206407f086feffe155edba2b09e8e2ff51903d5a8af1",
+				"service": "traefik"
+			},
+			{
+				"name": "containrrr/watchtower",
+				"tag": "latest",
+				"digest": "ff3ba4f421801d07754150aee4c03fdde26a0a9783d66021e81c7097d6842f25",
+				"service": "watchtower"
+			}
+		]
+	}
+}
