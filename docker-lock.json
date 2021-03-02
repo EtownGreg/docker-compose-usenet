@@ -4,7 +4,7 @@
 			{
 				"name": "linuxserver/ddclient",
 				"tag": "latest",
-				"digest": "e19fe9e583715ce4b810d3f2db4842c433f57277f06b5ef216b6c50b4cfb2b09",
+				"digest": "b7187d2ded5518c2f588ab9428f2995e49803b2f90ba08f3f7dff65c91441f40",
 				"service": "ddclient"
 			},
 			{
